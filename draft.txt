@@ -6,3 +6,4 @@ Note provider options
 List domain records
 Update collaboration doc
 Capture retention risks
+Update the CODE_OF_CONDUCT to latest version
